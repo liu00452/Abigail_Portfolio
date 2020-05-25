@@ -26,7 +26,7 @@ export default class App extends React.Component{
 
   render(){
     return (
-      <Router >
+      <Router basename="/Abigail_Portfolio">
         <div className="App">
           <Modal onHide={this.hideWorkDetail} show={this.state.isShowWorkDetail} size="lg" aria-labelledby="contained-modal-title-vcenter" centered>
             <i onClick={this.hideWorkDetail} className="far fa-times-circle"></i>
