@@ -1,5 +1,5 @@
 import FittedVideo from '../video/Fitted_video.mp4'
-//  import HolaDashboard from '../video/dashboard.mov'
+import AbroadVideo from '../video/abroad.mp4'
 
 const works = [{
         id:1,
@@ -8,7 +8,7 @@ const works = [{
         title:'Tundra',
         discreption:'This is a Cordova Mobile App.',
         time: '2019-03-29',
-        images:['https://ae01.alicdn.com/kf/Hb7e07b42e8ce4bcdabe436883b40dc339.jpg','https://haamhg.bn.files.1drv.com/y4m8LYz49gif5AGxeoImUPl42TMMcbJh1y1H_GvERqzeRGOp_Hfl4bmCYj8PDqwB2oKVfTdQfJQqKmMLW14Yt1-qTD5O78jtlpA1OP0zZqBpMLSA_C9D5ghG8JOFDZ7oSLb-qtNGXh_Co0BndrTpOjHIJEFe_EcHvA24n34MqGvVCq4EruWvFA8hw6rE-RuEU0VAQQQWhuXP1xTJqEzsHLtLQ?width=494&height=1024&cropmode=none','https://haarhg.bn.files.1drv.com/y4mKLKg2gFdOtg2_SkYDpKrtdL8VQm-kQ1n_eGAB7i2Bohj0OTCpAQtYvUxxqgMPH501QbQteUYKPDDq560-p9Yr3DNxnsdp7fqabnf0WE0y7u-95kW2eGuGEfMgiZX2gQfggPc87ha7h-BFYazCz1Rx5Ypf_-jGg_FgZSTr3Ep0AWb1FVJ7rnajgeubtHLmA4K-HF_BfKM8Rc_3iOrIxUvAw?width=494&height=1024&cropmode=none','https://haanhg.bn.files.1drv.com/y4mwd0oobJyhyFmf6jb29oiyobWRkRwLfKFmxoJFniviGboOueGzwgrrStjI5ZlMHmT1ZVyTNtp0DmS5QIcwntOIhqES62GhJ-DGk7OXptyaG_B3zzh2zIymkP-mNn6XEBH8v2wHDJT71k9TU0xmbUJyqsgXv20cII-rmvkcN6HIkxy1mT7CVK3L-bT7tlZr-b94CvN-dAuXKMNvGj_R8UKCQ?width=494&height=1024&cropmode=none','https://haashg.bn.files.1drv.com/y4myBABVjv4MFunn8v7KBi_gE29EWfXQFFBbm4xgBZwH7rvvjD-oMAtacdDbEnXF2BQo3N9zE3Ex3Ivh_DLL0yzKcn8HF7dZbkeKboDeRQ7z4xjL2VQMirWasbb3AYhjBwF9lZGT21wb4_uuSeFa4TsLN7gyUCeNibLsS3KcB1aSTlmu7h0AAXRjW53XF2saYIH49IiWzbrhVEAUoKtdsM4RA?width=494&height=1024&cropmode=none','https://haaohg.bn.files.1drv.com/y4mxFgPZuwhH4lXsoxgovBRcOWvOZDhdbhJuZorsHC9_t7u9rr8lcFpc2ZJ2YgV5WMoEl_7GassFcWrLl4vHXXUQDVCT5scBU8MpCCgeo2PbQDRnyVVEd5f_cgY1GOat2P7dzj_Rao0zkdwcYyO1N4egrWduromk2T1ZHDjZIolUKDqF9qF8igHTtY3BWFnugyntYrSNj5UgWiyqmhKXGoaPA?width=494&height=1024&cropmode=none']
+        images:['https://haarhg.bn.files.1drv.com/y4mKLKg2gFdOtg2_SkYDpKrtdL8VQm-kQ1n_eGAB7i2Bohj0OTCpAQtYvUxxqgMPH501QbQteUYKPDDq560-p9Yr3DNxnsdp7fqabnf0WE0y7u-95kW2eGuGEfMgiZX2gQfggPc87ha7h-BFYazCz1Rx5Ypf_-jGg_FgZSTr3Ep0AWb1FVJ7rnajgeubtHLmA4K-HF_BfKM8Rc_3iOrIxUvAw?width=494&height=1024&cropmode=none','https://haanhg.bn.files.1drv.com/y4mwd0oobJyhyFmf6jb29oiyobWRkRwLfKFmxoJFniviGboOueGzwgrrStjI5ZlMHmT1ZVyTNtp0DmS5QIcwntOIhqES62GhJ-DGk7OXptyaG_B3zzh2zIymkP-mNn6XEBH8v2wHDJT71k9TU0xmbUJyqsgXv20cII-rmvkcN6HIkxy1mT7CVK3L-bT7tlZr-b94CvN-dAuXKMNvGj_R8UKCQ?width=494&height=1024&cropmode=none','https://haashg.bn.files.1drv.com/y4myBABVjv4MFunn8v7KBi_gE29EWfXQFFBbm4xgBZwH7rvvjD-oMAtacdDbEnXF2BQo3N9zE3Ex3Ivh_DLL0yzKcn8HF7dZbkeKboDeRQ7z4xjL2VQMirWasbb3AYhjBwF9lZGT21wb4_uuSeFa4TsLN7gyUCeNibLsS3KcB1aSTlmu7h0AAXRjW53XF2saYIH49IiWzbrhVEAUoKtdsM4RA?width=494&height=1024&cropmode=none','https://haaohg.bn.files.1drv.com/y4mxFgPZuwhH4lXsoxgovBRcOWvOZDhdbhJuZorsHC9_t7u9rr8lcFpc2ZJ2YgV5WMoEl_7GassFcWrLl4vHXXUQDVCT5scBU8MpCCgeo2PbQDRnyVVEd5f_cgY1GOat2P7dzj_Rao0zkdwcYyO1N4egrWduromk2T1ZHDjZIolUKDqF9qF8igHTtY3BWFnugyntYrSNj5UgWiyqmhKXGoaPA?width=494&height=1024&cropmode=none']
     },{
         id: 2,
         cover: 'https://ae01.alicdn.com/kf/H3462e731c4724b47a1e262eced58efcbO.jpg',
@@ -64,15 +64,6 @@ const works = [{
         images:['https://eqavhg.bn.files.1drv.com/y4mQyhAeutlQptV-lJmTCQKJ453aaUG3Rq1QqiOQjGwTpngP1XKP4GbkcyDv6MPp_gcIkpV5SWbhz98zkSRG0IONIOCcm6gjIZq31LOpqTONdjORuxvUUvGn1B9StP-phO4gv0l57i8_OgNp9VfWTZmDe0oIcw0R6EDmKIlOFiZa4ES4VOZUHnaKMN6tXjNrY0SDAlSEkT0YWYTS345QhKO2g?width=473&height=1024&cropmode=none','https://eqamhg.bn.files.1drv.com/y4m2U4i9sWu3cXKWo-E39mTyWubrn6_9hELj3N19cmNx3Du0cuLLFuVOCuitHbJ9RtmLrbEZRC0eKBV0MjYPlQUE82UuWNUi0zG8KC7A_X9m69XMNvjD-WIqA6u4fljCGj_n9MGIfz4PgUv1xpxfzTLEibdE-7qm4GWHzAb7KNKtrWofH92AtilM0Rike_D0ioQiQkxjf6-zYhnLIA1bTn4VA?width=473&height=1024&cropmode=none','https://eqalhg.bn.files.1drv.com/y4mNxHl45rdDz04pZLyXm0nhgD9EaLCIygVjFsKNKMnfy2p8bfQ9ZQzfN5Z9vmnnb-dBBzpoNU60tg-ryOlgqTXkDC7_Ewwt9x94Ux9r9Kf4LOLVhyCB_MRBf19n-tj1Dqw5gWmWywdMUW-x6JgbrdNx7sliXXymB0li-naHZs7S-XRPxU-Thwr5cjiTIKBk0dl4SoJdKBqJQYk3rzV8qjRDQ?width=473&height=1024&cropmode=none','https://eqaqhg.bn.files.1drv.com/y4mYY0ZiJTDZb3KnlTj3Kdz8M8AWKNdUz6BRJ1w2fhsH65zWipvT9SC3gbxW19VETaDLOvzIfzeP7zNs_TRDx_e_YZZktsU5yX76ujHt9P_u4OFfM2nCG_C7TzU85OKRfeiTR-APiEFQGA5F2VVBKWXdYPH6_LmPzJFjFQ1LAFU5YRlMjGFPcanvnCaAvLysvE8ah6wXObD8xqFLHKUmQ1HDQ?width=473&height=1024&cropmode=none','https://gayneg.bn.files.1drv.com/y4mB5gz0cZORSIcDF8QW14k9QOJOXHuyTdflPIk3ItOSiavXdX2Y94sNFRcBIw_-4_wuDkin3DzJEiGPC7ltbvdmGbZUEdxuPkboPZsiC43MdldNW-Jl3pf4aVN1pnWyaCnLVTL79RQU7Ma1iKNloDz2r8_ZatxMa8lPZG7q3wqElYpOxtbHTjIRiPB_7aNQFBW4w6gon8Pp0ABH4Nw2JGH0A?width=473&height=1024&cropmode=none','https://gaymeg.bn.files.1drv.com/y4md20NM0IARp2WVt-OOgmIucNBc2SHPSAvRQ5MtyERHXMbj9i4h116nsHvRajLJ5Q8gF7Gc3U9rD5ehiELJhoJj1PZncImJ6DUC3SLGGdpCWUfAaqTOjo6bavmNveFmv7QhFovJni6sw8GWr3S8cdYF0CzEi-TF-p9sR0EUvlYMX14V5id-pIHom09a2zrwq7qBB3eT1A5bZsdTOWd-VNWQg?width=473&height=1024&cropmode=none','https://eqaphg.bn.files.1drv.com/y4mmSAntirL5DXBlRbI85yxn8ADYp9oOx0qocms_uRM2uhNtHyYYxQBVj9LPn-l4TUBhR_wFRQb4miPcUVytVfILdxiAbaU0Ao7b6tQR7Vm-1JzYw8AeYMxXtkdfMt7AXzIKwpBx8QA36REYUZb5ZWJ9q50U7DBNno3ibMbyUdVjBly37odSaZmCeS68w9gDxgQtunSdbhgDSr6jqNi0rRFBA?width=473&height=1024&cropmode=none','https://eaavhg.bn.files.1drv.com/y4mCOBAfk62Q5ut8kMIu1ekk9412fzJbJhN7UruqqOX5j0Fjo21S7N3jZmTOpoRBnxESTmRwigJ0SeLS6acqFdQapxgpS_wO0RwnPN8KASu66EmJOybtVSkws1W8RkA-FysM1pZKmczOciTCSOOSSrz5dMRGeze-_m3prJ6MEs3fkboDkoYKcij9WcPkNCeNlmikcvAl9KaKIPgfxCloLnYhQ?width=473&height=1024&cropmode=none','https://eqaohg.bn.files.1drv.com/y4mWj3BcCFOWyKbENW3cBJ-zYw-hb_D940oxLrNZmzCU-5su8yq4Q9S6B6jrflqzd6G-SsJDbacYYDKdnx6owNtmAU5qeGgyZH8jn8Tv6BEZBWhpibYOclGB4gngrnZyXMDzUErQ4-4nEzccgVOkrqAu30eiCt3dtUWyuRD5qFBWc0Y8iyv9nCz8ixvJcEz_bkGjfkHI7vcZK24GrsIeTVyRw?width=473&height=1024&cropmode=none', 'https://eqawhg.bn.files.1drv.com/y4m5nsooAY3l5VwfUcVkCs-kmnI3buUtK5PtlWRv1K6bnbK-Q4ZpiOK0pzjpYl0YLRR1CyESpk0zmYonumRoa96bkJnDBzHUL_7elWnQEOdsgZx-uGfHnCEhRacwxERK0bTO2sbCwqgr-H1rxZFh3PWPDNCXZa9T1937VUk-KKBOmYs0flf67Fy0CR0qIMJg_7zAd49Hou0FDQ-Ncp0CERywA?width=473&height=1024&cropmode=none', 'https://eqarhg.bn.files.1drv.com/y4mk_DT-DrJDpwQ2BCBd0nQE7USEhkRk8qLRTrFYvdp1QE6jh98xMgfidRszvA6BBrtJ7MYI83cSNG0tNVGXK40rbk4s4a9Gch6Gm7kauKrh24J0k_nqXK9z2EZx2jeKWkhP4m-jfOO7bJlsXFSSBLD_GlEV3mu7GuE9ycRkv6JpPQyys-_9VxV638chrvlqESL2kPZnhTsYo74Z6a_Sg7-rQ?width=473&height=1024&cropmode=none'],
         video:''
     },{
-        id: 8,
-        cover: 'https://gaypeg.bn.files.1drv.com/y4mKyGQp6fyqEs9uUWHVixdcLllxb57pahcOE2o_50_fCoW9zhwQKg-lleMd42B5rV-rdDKuxvgSK_XbowIiZmp2x12R45uz6OvdtOhzntN4CNIZcVz5-M6xdEZawBEKljPc2lmi3DKX1M_9YVRM8UiC9TltL3ixn9uLXnXexIQcnSgDXqCTBVLXs1wRVHffTFabjxJoh5jZy8IEL-imVVmqA?width=1000&height=1000&cropmode=none',
-        type: 2,
-        title:'Bootstrap Website',
-        discreption:'This is a website using Bootstrap.',
-        time: '2018-12-12',
-        images:['https://gayoeg.bn.files.1drv.com/y4m8N7uh3B65NaSXZk1mvOPbABi-9DqtCGMJq0D0qOI3lBKquk-Nf1pCTtjVLxlZr33z-v9KIHtlrlV0tOg4y-6Sz7QjBd9gJ8v8YlSFLJxFl5fWx8qdtBBL_26gDISOGqfr1wxKGWAjophKpdPXAjQFEACUEfFyEfOvM2pi77WeutDeTAJt1HaEtlMXI3AigiE54Ib88dB7MXOacSqsOtPRQ?width=1024&height=527&cropmode=none','https://gayreg.bn.files.1drv.com/y4mi2do1ybmT2OQuE7j6JvtuQHSkszlzixP9IwLkqciceW5sQi9bMXNYPzZfL7FGvtxrJwaQTileOBmoYRAA0wVrl4ChRNcOe3Eok_LgffEocfISah4tQdHLdLgjWPdEdfdA3QyZqaaQbCMy0YaQQGvoLqHKiz384M7hDFYoIofEZwUqPTfQiJJrVEl8IDm7sfq3W9D8MDdpoZlQLBg3Y39oQ?width=1024&height=684&cropmode=none','https://gayqeg.bn.files.1drv.com/y4mhbcJ9c0oomAxnHW-ISb8neydF2a0ZEWfxT-eRqBHFQo1aQTYu1lA9R_1bPgkEIVya8qxCCCP7Vs3j7IdlR8o4aQFLu8VDJQo8F2eWruuJjF_MXUrPMiwJ0S2Nnd1WOh-JLYqSIE6Wo2WJFuLnirPNDFtN_p_M9H-e0Xg8KqEm4gauzbF0PnRtmCP-vMTBmxeNKrKJYN2vLmqUGAaFAf4uQ?width=574&height=1024&cropmode=none'],
-        video:''
-    },{
         id: 9,
         cover: 'https://ae01.alicdn.com/kf/H83015bfd45d84e08b5913e411ab9aef1D.jpg',
         type: 1,
@@ -119,13 +110,21 @@ const works = [{
         video: FittedVideo
     },{
         id: 14,
-        cover: 'https://hqyoeg.bn.files.1drv.com/y4mN_bYB5sM8ehcbjB2FfHFzc2nko_CyMl4bVcaudFN_BG3KRG20xq1gcedx20v2BALZQ7mgqiGmm7Q1a19MN4g5__e63yVqQ3KyIf7pNWvPSXdTvCvILrBd6uujvcBADTK4qgxWRC2TA8FIsG3sfxcEdJnsfV3zIr1KcpnnJy1dQKqFR-UzYDHLqJ6aXZQW63W_9u6teLcpFEFO6zqu5gnMQ?width=1000&height=1000&cropmode=none',
+        cover: 'https://ae01.alicdn.com/kf/H2fc2295959914bfea39ce4eeb1c958baS.jpg',
         type: 2,
-        title:'Hola - Development',
-        discreption:'This is a Visitor application using React-native. I finished this website with our 3 people front-end team.',
-        time: '2020-02-18',
+        title:'Algonquin studying life - Development',
+        discreption:'This is a application using React-native.',
+        time: '2020-04-18',
         images:[],
-        // video:HolaVideo
+        video:AbroadVideo
+    },{
+        id: 15,
+        cover: 'https://ae01.alicdn.com/kf/H64f3daca257d4265a729fcaad2c8e783N.jpg',
+        type: 1,
+        title:"Algonquin's studying life - Design",
+        discreption:'This is a application designed for sharing 0ttawa life.',
+        time: '2020-04-18',
+        images:['https://ae01.alicdn.com/kf/H57b888ba4abb4bdc9ba38b550165c24es.jpg', 'https://ae01.alicdn.com/kf/H793dd5f0af354099b62697937dc2b216G.jpg', 'https://ae01.alicdn.com/kf/H3c3d742301c746319ae3233663dda494Q.jpg', 'https://ae01.alicdn.com/kf/H3caf5aa0943848baaf731fd60f758d62S.jpg', 'https://ae01.alicdn.com/kf/H25106a8a562142b1aa45e5f17705696a0.jpg', 'https://ae01.alicdn.com/kf/He1348b055a4c41268b091e5f7cb30404p.jpg', ],
     }
 
 ]
