@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/Abigail_Portfolio/static/css/main.adf236d6.chunk.css",
-    "main.js": "/Abigail_Portfolio/static/js/main.d3597b3f.chunk.js",
-    "main.js.map": "/Abigail_Portfolio/static/js/main.d3597b3f.chunk.js.map",
+    "main.js": "/Abigail_Portfolio/static/js/main.30073a79.chunk.js",
+    "main.js.map": "/Abigail_Portfolio/static/js/main.30073a79.chunk.js.map",
     "runtime-main.js": "/Abigail_Portfolio/static/js/runtime-main.06a8a7e8.js",
     "runtime-main.js.map": "/Abigail_Portfolio/static/js/runtime-main.06a8a7e8.js.map",
     "static/css/2.af3c1da9.chunk.css": "/Abigail_Portfolio/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.c25ed0b7.chunk.js": "/Abigail_Portfolio/static/js/2.c25ed0b7.chunk.js",
-    "static/js/2.c25ed0b7.chunk.js.map": "/Abigail_Portfolio/static/js/2.c25ed0b7.chunk.js.map",
+    "static/js/2.6bf0d670.chunk.js": "/Abigail_Portfolio/static/js/2.6bf0d670.chunk.js",
+    "static/js/2.6bf0d670.chunk.js.map": "/Abigail_Portfolio/static/js/2.6bf0d670.chunk.js.map",
     "index.html": "/Abigail_Portfolio/index.html",
-    "precache-manifest.47968e4bbcfaf611233ce79a8cf289f0.js": "/Abigail_Portfolio/precache-manifest.47968e4bbcfaf611233ce79a8cf289f0.js",
+    "precache-manifest.13fd31dd24a93ced59f7d26cf448f19d.js": "/Abigail_Portfolio/precache-manifest.13fd31dd24a93ced59f7d26cf448f19d.js",
     "service-worker.js": "/Abigail_Portfolio/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/Abigail_Portfolio/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.adf236d6.chunk.css.map": "/Abigail_Portfolio/static/css/main.adf236d6.chunk.css.map",
-    "static/js/2.c25ed0b7.chunk.js.LICENSE.txt": "/Abigail_Portfolio/static/js/2.c25ed0b7.chunk.js.LICENSE.txt",
+    "static/js/2.6bf0d670.chunk.js.LICENSE.txt": "/Abigail_Portfolio/static/js/2.6bf0d670.chunk.js.LICENSE.txt",
     "static/media/Fitted_video.mp4": "/Abigail_Portfolio/static/media/Fitted_video.977df65b.mp4",
+    "static/media/abroad.mp4": "/Abigail_Portfolio/static/media/abroad.a3bbe7b7.mp4",
     "static/media/back.png": "/Abigail_Portfolio/static/media/back.d571598b.png",
     "static/media/design.png": "/Abigail_Portfolio/static/media/design.02096c0c.png",
     "static/media/AboutDesign.css": "/Abigail_Portfolio/static/media/develop.09b6bef2.jpg",
@@ -23,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.06a8a7e8.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.c25ed0b7.chunk.js",
+    "static/js/2.6bf0d670.chunk.js",
     "static/css/main.adf236d6.chunk.css",
-    "static/js/main.d3597b3f.chunk.js"
+    "static/js/main.30073a79.chunk.js"
   ]
 }
