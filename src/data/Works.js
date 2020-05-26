@@ -16,7 +16,7 @@ const works = [{
         title:'Findr',
         discreption:'This is a Cordova Mobile App using Google Map API.',
         time: '2019-03-22',
-        images:['https://hqaohg.bn.files.1drv.com/y4mFbaaWrO5IpPEy6en7vB64ewunnynfbetDPLSNKwOI0x-hgX8M2efEobVvdPgXmjd5p1fx7TOmrD2W1vFZh6IdcC75YW2n6SaeRSFnpSqAU5-bF0qG1Y6O6uqK63DSs58-m1HdxmN7QtRCW_C076YB0rsRWf39D2Jf4WXeqOfrMO9J5yblkKBQuOhziK2YhLXC6sG7J62RziEo-ZMdHFyLg?width=494&height=1024&cropmode=none','https://hqanhg.bn.files.1drv.com/y4mucORqtvpF54nWu8OUfhyQYdymkyWvvKHE0PCNF2pGAlbDtUYfP5Qdg7dObUd3ASO-cXtGUSj_4MkfUXJ32o8M7Yh8NuHXMq-ssHSmy8I0vhIJVsa2Iv0w1kDqEcVC3b7iVRj7rUjVcV_5DPzmLcHz0IEzWRwDGqX7EBDaFeCfFWc9kAWWjYoj7pZqet6NPSGOgX2SYYlTH1IGTwjVdIv7w?width=494&height=1024&cropmode=none','https://hqashg.bn.files.1drv.com/y4mwxpjdCUdYPes4kNLpWh2EXCeFjxuxbtQfp56_CQUiSxwxpaPMetcuagOGUo-5EloAIlzF3oamYmpVLh4a97mTfLfl3V6LJIOyfgA0dTaIofCdvTEYiCxm-A99EWvB0r3g4RMKjShG5pnPCJba_YjB17KLUarx-qpDgLbKUNXfkNKC2SVoDRGp5Zj6qXUxZ0NjTN5VM2EPm-dmtwNwcjCKw?width=494&height=1024&cropmode=none','https://hqamhg.bn.files.1drv.com/y4m93CbB68jxWrN2CZ9gfG5DKyxuGgWhFBp__sRZ50yQ2XgAiMkncoqwnmA-OSHXSEe3SLBXRIEri5rcGRvqoeQQuXKVyRomeZkXZY-UxVl2uKLBrAwKr8huzpphOnsuWA_LHhze_Pa_nDUuCnMQ0l87e61NDU6e3AfNnnRSNILO_dhCXkHRPnD8aml4bzF1USOdpAsO-lgBpaY2NkE6gzl0g?width=494&height=1024&cropmode=none'],
+        images:[],
         video:''
     },{
         id: 3,
@@ -25,16 +25,16 @@ const works = [{
         title:'Reviewr',
         discreption:'This is a Cordova Mobile App using mobile phone camara.',
         time: '2019-02-01',
-        images:['https://hqaqhg.bn.files.1drv.com/y4mMlbHvdpxCUWKCqyirOKuAyfNTH2dCcKkTOtjHhBjze-AXIK6aXm-hCyVHBZG7WrRfRrQwHjKnEP9FisDSqMYwA77520lEKn_y7lCUvGH4prtZNsEieSGJCIpd8dfByqP5mUVgIc8zskwwxtnT_Rw5TYFhdF2CW_sPKIyygpgDL_oFVnbMwmCpDmswdtVziOvFmFZjnso1RpgJziKgwgt6A?width=494&height=1024&cropmode=none','https://h6aohg.bn.files.1drv.com/y4mUKseHlrv-GhdJKipxGVm5pRvwIzDNbFEE6Io5C9Kypzud6HKThzYdTAScWw5zHniazIBKCJapuqzTa-sCBQjvWNj7D-9KsiZNBhawO5k3yCx3eJph04AOQAHnwM5qzCVLlKuQonC_a5A9erBacUutXbDngy3fO-MgVZX6P7HBCo7frdudD5pny0OIZzhW4BMXd0PbUnaeTy9S4BQ38e74Q?width=494&height=1024&cropmode=none','https://hqavhg.bn.files.1drv.com/y4mwutgx_duLN_WYDZXQM9_uWz2WYrXujAHwLD8v3DgfmS7B7klrWFZ8Qb2a1mLs6jp1NavJyjkSdnQyQ5l8XNmXBlEhS1R4WjNKbxEMy-um51nOygw4KQ3gStPIR8QCVWQRakBvK9ws6Eg2VIUbHTd7In422-6IQn5Y6RULukhwkHeAGrTanS3ipuXgnKa2qT617JKR_YcmtIqmfPHR4T1zA?width=494&height=1024&cropmode=none','https://hqaphg.bn.files.1drv.com/y4m9PobXMceWtRfF6P9HkD2igU0qhMTStAZwce7tpQ3N-Zo8MttZfIa_nlOZTQiMgfVEeTMCFDpmNmEPW4usDKCtTqHMtv0IGMR2IO1izXXzhy0qEaHSufKgGXlPIBmlJfB64XepGpEPz9M1cJYK6RMuy5StFr46R0bSOvL2kgBoyBI_SFvxUFZdfqZi5XGCKvbhqkg1d3oP2EMk3x9ykhL9w?width=494&height=1024&cropmode=none'],
+        images:['https://ae01.alicdn.com/kf/Ha6675aaa6fb943038e2bbfec001ceabfM.jpg', 'https://ae01.alicdn.com/kf/Ha99a65b1107b4ca993b40b183b6075f4X.jpg',  'https://ae01.alicdn.com/kf/H9286e79dcdb449179c4ad3105c381aabk.jpg', 'https://ae01.alicdn.com/kf/H62cc51cbcf654c188caadaf1d7dfe8364.jpg',],
         video:''
     },{
         id: 4,
         cover: 'https://ae01.alicdn.com/kf/H70f70cb7d8234310948a0e709ecdf6ddj.jpg',
         type: 2,
-        title:'Remembrall',
-        discreption:'This is a Cordova Mobile App using mobile phone notification.',
-        time: '2019-03-08',
-        images:['https://h6arhg.bn.files.1drv.com/y4mOzDGO30OVJ8Rrg5OBgNQ1JTV0wPfcK4a4TK0Whk24h-UJVY4PFVgC3VSHpFbkVwVUaYdmYJjuw3sZR6ACtkeil6Rj5qCjlX5n8PLI-d0d5xpF_d7MMZF4k2AMFnb63pHAckKOaGnvcfS9cIh8SAhNRKQgvxySVnHDMl77nuWIsBJM2wYB2zIOhPzTQJWzFVx04RMhpCNI7_siiWTJTNf2A?width=576&height=1024&cropmode=none','https://h6alhg.bn.files.1drv.com/y4m8YaSVdRT8JxsaOqQCjAr1DEyeNsS6pBiO1E96I3BeSFVH8XbErIPBzStbIN1U9Q1xz8-jV_lCfJPkswTUF9Wqz-JrOGSrWnLsh_SiZIdcF7XapEYRLy7ED-iwdDa5UnTrreaPuC-5EUdzeS_OOL3gtWJbogtlcGvj1bqbozmD9xln811ZemnHwoQflI5DyXfojGam1nHNWV6SJiJezek-Q?width=563&height=1024&cropmode=none','https://h6ashg.bn.files.1drv.com/y4mFqJVLBzfhKbtCPhBpx6zzeUkaAmdxCrK71QFXAB-6eJQA7Cvh9AGyhb4oPaSquMtNO9jk9L8jURkZpxUOKG_sMrGZeOAizLsl3ezhrXbsPWUiRF6eJUOTAA-s6khQRri_k1RCnMd4gZcrQyc-mREVjEeEeYKsglWhFGoaF7Nbe_um5loZTygyCA2wmH8TjiUKPz_3uFZqpuc6FIQR9Yg7w?width=563&height=1024&cropmode=none','https://h6aphg.bn.files.1drv.com/y4m2h-gvLEs0PDV8xl6J5fvAv7M4VLxAjF-E64C1ddeyIuoMtzqcipWVIEkyGgzigakFlZZSrOAq0QibKwP9A32DzzdslYyuAKL2xZGgqV4XkRtc2pLrXZ4Bed7lz1mmQorT5EYYjASyvKYD9xxTmi3I3h1-b-JDCbk_XzkAH9LOEwC5qBT-PhRsI4uFwz5Pff0fititQtUtds0ypn22b33Qw?width=563&height=1024&cropmode=none'],
+        title:'Andriod App',
+        discreption:'This is a Angriod App.',
+        time: '2019-011-08',
+        images:['https://ae01.alicdn.com/kf/H41e0aad1bc004551b71128d6f69fb3adn.jpg', 'https://ae01.alicdn.com/kf/H414f365608dc4feaafbfc6fcb328145fA.jpg', 'https://ae01.alicdn.com/kf/H7848afdbf81343d9b9d990adac8066d1i.jpg', 'https://ae01.alicdn.com/kf/H1949dd4569084176b86f1853dd3dd981X.jpg'],
         video:''
     },{
         id: 5,
@@ -43,7 +43,7 @@ const works = [{
         title:'Playr',
         discreption:'This is a Cordova Mobile App using media player.',
         time: '2019-02-11',
-        images:['https://ikaohg.bn.files.1drv.com/y4mlVEQacMxRUg162tk_Otkg5i0suLVj7XJTGp2IAzdN-tj5ZQOiCC3PEj-V5rDJxcNnc6-MoP3ybUiQeZWejZ0VBKZhS4w8UbKl5XM-2VClS1bvFq9v88XRPuEiLCUNjQk6mNt6ZHqAz4P4KhvsjrBi8UvV4zceH3BSo7U4v-N0DUgXkBcMabd79-xXsdWqrTyA41HlG01i-w0dPAMr8-V4A?width=494&height=1024&cropmode=none','https://ikalhg.bn.files.1drv.com/y4mMN9RAqHj5op95RFmdLDk7mCDHTL1IRfJ9CqORN5loSPrLyewwxXjmKj7BBE7xZ3NcxBbj1BQU0CNSRrv8f57TSwnMeSPW_YAyFI7E6KprC4uY_-Kof85U9jdiXiF6fmDZqHoeVskFVfffC0lH9TY3dFXSj1Y6oQea85xtFbUaZoqDYpQK_fb1VBb7larnUsB4gTamfV6GyvzoXERSVaBhA?width=494&height=1024&cropmode=none','https://h6avhg.bn.files.1drv.com/y4mqpMLtj62dW6bMlO9tnZIdH6P_nFPfwseXQeeS-kKsrbmXu5MBO3mK9QWH2-_BkmBB53MyWPk0ge0hz_FoOoNUm9mMz87uYMcw8An5Fppvwzh3yePpVR5RJA3Xr-iQyHA8kdAqHNh3nhNyL188gYw3nNA23WcZrEnksksR2cNoMsVG9xZANXLUcYbRJ94hLAvNILvCDnw2HyWQ5e66wc7Zg?width=494&height=1024&cropmode=none'],
+        images:[],
         video:''
     },{
         id: 6,
