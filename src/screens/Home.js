@@ -16,7 +16,7 @@ export default class Home extends React.Component{
         headerContent : {
             line1: 'HELLO',
             line2: 'I AM ABIGAIL',
-            line3: 'A full-stack developer with UI/UX design skills.',
+            line3: 'Expert in UI/UX design and front-end development.',
             button: 'Resume',
             line4: 'My Design Works',
             line5: 'My Development works',
