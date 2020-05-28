@@ -102,30 +102,31 @@ nav{
     z-index: 1;
 }
 
-.aboutMeButton{
+.resumeButton{
     padding: 10px 2rem;
     font-size: 1rem;
     background:none;
     color: white;
-    border-radius: 30px;
+    border-radius: 5px;
     border: 1px solid white;
     cursor: pointer;
     transition: all 0.3s ease-out;
     outline: none;
     position: relative;
-    top: 2rem;
+    top: 8rem;
     text-decoration: none;
     -webkit-tap-highlight-color:transparent
 }
 
-.aboutMeButton:hover{
+.resumeButton:hover{
     background-color: white;
-    color: black;
+    color: rgb(247, 193, 94);
+    font-weight: 800;
     outline: none;
 }
 
-.aboutMeButton:active{
+.resumeButton:active{
     background-color: rgb(226, 226, 226);
-    color: black;
+    color: rgb(247, 193, 94);
     outline: none;
 }

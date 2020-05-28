@@ -64,6 +64,31 @@
     .fas.fa-arrow-circle-right{
         font-size: 1rem;
     }
+
+    .aboutDesign, .aboutDevelopment{
+        padding: 6rem 0 5rem 0;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .aboutDesignInfo{
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        /* text-align: center; */
+        /* margin: 0 auto; */
+        max-width: 1300px;
+        color: white;
+        text-align: justify;
+    }
+    .homeWorksViewMore{
+        margin-top: 3rem;
+        border-radius: 5px;
+
+
+    }
+
 }
 
 @media (min-width: 1300px) {
@@ -71,5 +96,5 @@
         color: rgba(255, 255, 255, 0.801);
         padding-right: 6rem;
     }
-    
+
 }

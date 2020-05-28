@@ -6,7 +6,7 @@ export default function Header() {
     <div className="aboutMe" id="aboutMe">
         <div className="aboutMeInfo">
             <p className="aboutMeInfoTitle">ABOUT ME</p>
-            <p className="aboutMeInfoDes">I am an ambitious, adventurous, assiduous, and animated full-stack developer with UI/UX design skills. Innovative optimized solution seeker and like both design and development work. Excited to be a developer as well as a designer. </p>
+            <p className="aboutMeInfoDes">A dynamic, creative mind with the capacity to create and execute interactive design and development. I believe that the perfect user interface should have visual appeal but also user friendly. Proficient in HTML, CSS, JavaScript; plus modern libraries and framworks.</p>
            
         </div>
     </div>

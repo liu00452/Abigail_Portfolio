@@ -17,7 +17,7 @@ export default class Home extends React.Component{
             line1: 'HELLO',
             line2: 'I AM ABIGAIL',
             line3: 'A full-stack developer with UI/UX design skills.',
-            // button: 'About Me'
+            button: 'Resume',
             line4: 'My Design Works',
             line5: 'My Development works',
             line6: '----- Created By Abigail'

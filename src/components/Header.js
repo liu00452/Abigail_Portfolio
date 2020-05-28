@@ -33,7 +33,9 @@ export default function Header(props) {
             <div className="homeHeaderInfo">
                 <p className="homeHeaderContentSelf"><span className="homeHeaderHello">{headerContent.line1}</span>{headerContent.line2}</p>
                 <p className="homeHeaderContentDes">{headerContent.line3}</p>  
-               
+                {
+                    headerContent.button && <a href="https://resume.io/r/BSkDSXUUJ" className="resumeButton">{headerContent.button}</a>
+                }  
             </div>
             <div className="homeHeaderContentBack"></div>
         </div>
